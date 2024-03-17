@@ -1,11 +1,11 @@
-# House Of Bliss eShop
+# House Of Bliss
 
 
 Welcome to the House Of Bliss, an oasis for natural aromatherapy products and holistic well-being. Dive into a serene shopping experience that caters to your need for relaxation and stress relief right within the comfort of your home.
 
 Upon entering, be embraced by the tranquil essence of our meticulously curated essential oil collections, ready-to-use roll-ons, and aromatic candles designed to soothe your senses.
 
-![House Of Bliss]("\\wsl.localhost\Ubuntu-20.04\root\House-Of-Bliss_eShop\react-frontend\public\images\servicescircle.png")
+![House Of Bliss](https://zupimages.net/up/24/06/1e99.png)
 
 ## Feature Section
 
@@ -24,7 +24,6 @@ The inception of House Of Bliss stems from a deeply personal journey through the
 
 This venture is a Portfolio Project for Holberton School, encapsulating my fervor for alternative healing and the essence of essential oils in everyday life. The idea was sown from a seed of belief – belief that everyone deserves a moment of bliss, an escape from the fast-paced turmoil of daily life.
 
-Feel free to connect with me
 
 Feel free to connect with me and follow our journey:
 - [Facebook Profile](https://www.facebook.com/profile.php?id=61553967928400)
@@ -42,10 +41,9 @@ Facebook
 Getting Started
 To access House Of Bliss Website, follow the link ... 
 
-License
+## License
 MIT License.
 
-Contact
 
 Thank you for you visit !
 
