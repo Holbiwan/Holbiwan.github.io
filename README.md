@@ -47,6 +47,6 @@ MIT License.
 
 Contact
 
-Thank you for you visit ! :-)
+Thank you for you visit !
 
 
