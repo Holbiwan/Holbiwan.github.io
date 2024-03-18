@@ -1,0 +1,14 @@
+.logo {
+    width: 50px; 
+    height: auto;
+}
+
+.banner img {
+    width: 60%;
+    height: auto;
+}
+
+#Products img, #Diffusers img {
+    width: 100px; 
+    height: auto;
+}
