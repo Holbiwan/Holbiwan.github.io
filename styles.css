@@ -24,7 +24,7 @@ header img {
 /* Set width for logo image and ensure auto height */
 .logo {
     width: 100%; /* Make the image responsive */
-    max-width: 800px; /* Set maximum width for better scaling */
+    max-width: 1000px; /* Set maximum width for better scaling */
     height: auto;
 }
 
@@ -36,7 +36,7 @@ header img {
 
 /* Style navigation bar */
 nav {
-    background-color: #411637;
+    background-color: hwb(314 1% 89%);
     color: white;
     text-align: center;
     padding: 10px;
@@ -106,7 +106,7 @@ nav a:hover {
 
 /* Style footer */
 footer {
-    background-color: #411637;
+    background-color: hwb(314 1% 89%);
     color: white;
     padding: 7px;
     text-align: center;
@@ -146,7 +146,9 @@ h1 {
     color: #e0e0e0; /* Slightly off-white for softer appearance */
 }
 
-
+h1 {
+    text-shadow: 2px 2px 4px #000000;
+}
 nav a:hover {
     color: #4CAF50; /* Change text color on hover */
 }
