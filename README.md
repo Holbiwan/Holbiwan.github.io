@@ -30,7 +30,7 @@ This venture is a Portfolio Project for Holberton School, encapsulating my fervo
 Feel free to connect with me and follow our journey:
 - [Facebook](https://www.facebook.com/profile.php?id=61553967928400)
 - [GitHub](https://github.com/Holbiwan)
-- [Twitter](@Holbiwan_Place)
+- [Twitter](https://twitter.com/Holbiwan_Place)
 
 
 ## License
@@ -40,5 +40,3 @@ MIT License.
 Sabrina PAPEAU
 
 Thank you for you visit !
-
-
