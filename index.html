@@ -8,10 +8,9 @@
 </head>
 <body>
     <header>
-        <img src="./images/HOBservices.png" alt="House Of Bliss Services">
         <h1>House Of Bliss</h1>
-        <p>As a passionate advocate of Aromatherapy and natural products, I love the joy it's provide. Unleash the Bliss within ...</p>
-             <nav>
+        <p>As a passionate advocate of Aromatherapy and natural products, I love the joy it provides. Unleash the Bliss within ...</p>
+        <nav>
             <ul>
                 <li><a href="#Features">Features</a></li>
                 <li><a href="#about">About House Of Bliss</a></li>
@@ -25,45 +24,101 @@
                 <h2>Aromatherapy Range</h2>
                 <p>We stock a wide variety of high-quality Aromatherapy products.</p>
             </span>
-            <img class="feature-image" src="./images/Products_categories.png" alt="Aromatherapy Products">
+            <img class="feature-image" src="./images/banner.png" alt="Aromatherapy Products">
+            <nav>
+                <ul>
+                    <li><a href="#Essential Oils">Essential Oils</a></li>
+                    <li><a href="#Diffusers">Diffusers</a></li>
+                    <li><a href="#Roll-ons">Roll-ons</a></li>
+                    <li><a href="#Body Oils">Body Oils</a></li>
+                    <li><a href="#Candles">Candles</a></li>
+                </ul>
+            </nav>
         </div>
         
         <div class="Feature">
             <span class="feature-content">
-                <h2>Account</h2>
-                <p>The 'Account' section allows users to manage their personal information and preferences.</p>
+                <h2>Contact us</h2>
             </span>
-            <img class="feature-image" src="./images/Account_pic.png" alt="Account Section">
-        </div>
-    </section>
+            
+            <section id="form">
+                <h2>Any questions ?</h2>
+                <div class="form-container">
+                    <form action="">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" placeholder="Enter your name" />
+                        </div>
+            
+                        <div class="form-group">
+                            <label for="age">Enter your age</label>
+                            <input type="number" id="age" value="18" />
+                        </div>
+            
+                        <div class="form-group">
+                            <label for="gender">Gender</label>
+                            <select id="gender">
+                                <option value="Male">Male</option>
+                                <option selected="selected" value="Female">Female</option>
+                                <option value="Other">Non-gendered</option>
+                            </select>
+                        </div>
+            
+                        <div class="form-group">
+                            <p>Type:</p>
+                            <div class="radio-group">
+                                <input type="radio" name="type" id="Products" checked />
+                                <label for="human">Products</label>
+            
+                                <input type="radio" name="Invoicing" id="Invoicing" />
+                                <label for="dog">Invoicing</label>
+            
+                                <input type="radio" name="type" id="Others questions" />
+                                <label for="cat">Others questions</label>
+                            </div>
+                        </div>
+            
+                        <div class="form-group">
+                            <label for="message">Your Message</label>
+                            <textarea id="message" placeholder="Your message..." cols="20" rows="5"></textarea>
+                        </div>
+            
+                        <div class="form-group checkbox-group">
+                            <input type="checkbox" name="" id="cgv" />
+                            <label for="cgv">Accept terms and conditions</label>
+                        </div>
+            
+                        <div class="form-group">
+                            <input type="submit" value="Submit" />
+                        </div>
+                    </form>
+                </div>
+            </section>
     
     <section id="about">
         <h2>About House Of Bliss</h2>
         <p>Aromatherapy became my personal sanctuary, a means to detach from the overwhelming pressures of the external world and to reconnect with my inner peace. Behind House Of Bliss lies a fundamental philosophy: to live a life enriched with peace and serenity, we must embrace the gifts of nature...</p>
         <h3>Team</h3>
         <p>Individual Project - <b>Sabrina Papeau</b></p>
-        <p>Cohort C#21 </p>
-        
+        <p>Cohort C#21</p>
         <div class="feature">
             <span class="feature-content">
                 <h2>Follow Us</h2>
-                <p>Follow the House Of Bliss on facebook and Instagram to stay updated on our latest products, and wellness tips!</p>
+                <p>Follow the House Of Bliss on Facebook and Instagram to stay updated on our latest products and wellness tips!</p>
             </span>
             <div class="social-links">
-                <a href="https://www.facebook.com" class="social-link" target="_blank">
-                    <img src="./images/logo-FB.png" alt="facebook" class="social-logo">
+                <a href="https://www.facebook.com/houseofblissworld/" class="social-link" target="_blank">
+                    <img src="./images/logo-FB.png" alt="Facebook" class="social-logo">
                 </a>
-                
-    <a href="https://www.instagram.com" class="social-link" target="_blank">
-    <img src="./images/logo-IG.png" alt="instagram" class="social-logo">
+                <a href="https://www.instagram.com/holbiwan.saby/" class="social-link" target="_blank">
+                    <img src="./images/logo-IG.png" alt="Instagram" class="social-logo">
+                </a>
+            </div>
+        </div>
+    </section>
     
-</div>
-</section>
-
-        </a>
-        <footer>
-            <p>House Of Bliss - 2024</p>
-        </footer>
-    </div>
+    <footer>
+        <p>House Of Bliss - 2024</p>
+    </footer>
 </body>
 </html>
